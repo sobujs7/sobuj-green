@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sobuj Ahmed - Portfolio</title>
-</head>
-<body>
-<h1>Sobuj Ahmed -Portfolio
-</body>
-</html>
+SOBUJ AHAED <br>
+Study: Gopalganj Science and Technology University <br>
+Contact : 01783607553
