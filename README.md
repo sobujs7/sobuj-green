@@ -24,7 +24,7 @@ I love building modern, responsive websites and web applications using the lates
 
 ## 🌐 Live Portfolio
 🔗 [Click here to view my Portfolio](https://sobujahmed.github.io/portfolio/sobujs7/sobuj-green/blob/main/Sobuj%20Ahamed%20-%20Portfolio.html)
-- 📧 Email: your-email@example.com
+- 📧 Email: sobujahameds2002@gmail.com
 
 ## 🌐 Connect with Me
 
