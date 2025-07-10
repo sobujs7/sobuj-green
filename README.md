@@ -1,6 +1,6 @@
-## 👋 About Me
+## 👋 Sobuj Ahamed
 
-Hi there! I'm a passionate **Web Developer** from Bangladesh 🇧🇩  
+Hi ! I'm a passionate **Web Developer** from Bangladesh 🇧🇩  
 I love building modern, responsive websites and web applications using the latest technologies.
 
 ### 👨‍💻 What I Do
@@ -20,17 +20,42 @@ I love building modern, responsive websites and web applications using the lates
 ### 🌱 My Goals
 
 - 🚀 Become a full-stack web developer
-- 🧩 Build real-world projects for portfolio
-- ✨ Contribute to open-source
 - 🌍 Get remote/international job as a web developer
 
-### 📫 How to Reach Me
-
-- 💼 Portfolio: [your-portfolio-link.com](https://github.com/sobujs7/sobuj-green/blob/main/Sobuj%20Ahamed%20-%20Portfolio.html)
+## 🌐 Live Portfolio
+🔗 [Click here to view my Portfolio](https://sobujahmed.github.io/portfolio/sobujs7/sobuj-green/blob/main/Sobuj%20Ahamed%20-%20Portfolio.html)
 - 📧 Email: your-email@example.com
-- 🐦 Twitter: [@yourhandle](https://www.instagram.com/sobujahmed2004)
-- 💻 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sobuj-ahmed-982921291)
--  
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://x.com/sobuj569559" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://facebook.com/sobuj.pirthebi" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://linkedin.com/in/sobuj-ahmed-982921291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourprofilelink" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+  <a href="https://instagram.com/sobujahmed2004" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+
+
+
+## 💻 Skills
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 
 
