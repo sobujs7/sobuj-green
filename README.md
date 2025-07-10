@@ -26,11 +26,12 @@ I love building modern, responsive websites and web applications using the lates
 
 ### 📫 How to Reach Me
 
-- 💼 Portfolio: [your-portfolio-link.com](https://.com)
+- 💼 Portfolio: [your-portfolio-link.com](https://github.com/sobujs7/sobuj-green/blob/main/Sobuj%20Ahamed%20-%20Portfolio.html)
 - 📧 Email: your-email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💻 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourhandle](https://www.instagram.com/sobujahmed2004)
+- 💻 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sobuj-ahmed-982921291)
+-  
 
----
+
 
 
